@@ -1,4 +1,3 @@
 # learn-shell
 
-Shell scripts
-_______
+Shell scripts for Devops
